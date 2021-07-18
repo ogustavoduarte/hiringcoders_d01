@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html>
+    <head><link href="estilos/estilo.css" rel="stylesheet"></head>
+<body>
+<div class="container-center-horizontal">
+    <div class="imac-1screen">
+      <div class="splash">
+        <img
+          class="frame"
+          src="frame-1.svg"
+        />
+        <div class="overlap-group6">
+          <img
+            class="ativo-1-1"
+            src="ativo-1-1.png"
+          />
+          <div class="group-1">
+            <div class="overlap-group">
+              <h1 class="text-2">Descontos imperdíveis nos nossos planos para a sua liturgia diária!</h1>
+              <div class="text-3">
+                Mais recursos, mais opções de compartilhamento e aquele preço de Black Friday. Saiba mais!
+              </div>
+            </div>
+          </div>
+          <div class="group-3">
+            <div class="text-4slabo13px-normal-black-18px">
+              Informe seu email para receber detalhes da nossa promoção.
+            </div>
+            <div class="group-2">
+              <div class="overlap-group-1">
+                <div class="rectangle-1"></div>
+                <div class="rectangle-2border-1px-gray"></div>
+                <div class="brucewaynecombr">bruce@wayne.com.br</div>
+                <div class="quero-saber-maisbebasneue-normal-white-24px">Quero saber mais!</div>
+              </div>
+              <div class="overlap-group1">
+                <div class="rectangle-4"></div>
+                <p class="text-5">role a página para mais detalhes</p>
+                <div class="ouslabo13px-normal-black-18px">ou</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="s2">
+        <div class="flex-col">
+          <div class="recursos-do-app">Recursos do App</div>
+          <div class="flex-row-1">
+            <div class="flex-col-1">
+              <img
+                class="feature-icon-with-circle-1"
+                src="feature-icon-with-circle.svg"
+              /><img
+                class="feature-icon-with-circle"
+                src="feature-icon-with-circle-1.svg"
+              /><img
+                class="feature-icon-with-circle"
+                src="feature-icon-with-circle-2.svg"
+              /><img
+                class="feature-icon-with-circle"
+                src="feature-icon-with-circle-3.svg"
+              />
+            </div>
+            <div class="flex-col-2">
+              <div class="headline-1inter-semi-bold-white-24px">Liturgia Diária</div>
+              <p class="descriptioninter-normal-white-16px">
+                Acompanhe as leituras e reflexões do dia, incluindo homilia e história do santo do dia.
+              </p>
+              <div class="headlineinter-semi-bold-white-24px">Orações</div>
+              <p class="descriptioninter-normal-white-16px">
+                Tenha sempre à mão as principais orações para rezar em família e manter o seu lar abençoado.
+              </p>
+              <div class="headlineinter-semi-bold-white-24px">Lembretes</div>
+              <p class="descriptioninter-normal-white-16px">
+                Adicione lembretes na data e horário à sua escolha para não perder nenhuma reflexão.
+              </p>
+              <div class="headlineinter-semi-bold-white-24px">Ler depois e compartilhamento</div>
+              <p class="descriptioninter-normal-white-16px">
+                Salve as suas leituras favoritas para ler mais tarde ou compartilhe com seus amigos nas suas redes
+                sociais.
+              </p>
+            </div>
+          </div>
+        </div>
+        <img
+          class="mobile-i-phone-x"
+          src="mobile-iphone-x.svg"
+        />
+      </div>
+      <div class="s3">
+        <div class="group-38">
+          <div class="header">
+            <div class="simple-transparent">Aproveite ao máximo nosso app, por um<br />preço que cabe no seu bolso.</div>
+          </div>
+          <div class="no-contracts-no-sur">Escolha o plano ideal para você e sua família.</div>
+        </div>
+        <div class="group-37">
+          <div class="tabs">
+            <div class="overlap-group3">
+              <div class="overlap-group-2"><div class="monthlyinter-normal-white-10px">MENSAL</div></div>
+              <div class="yearly">ANUAL</div>
+            </div>
+          </div>
+          <div class="flex-row-2">
+            <div class="group-36">
+              <div class="overlap-group2">
+                <div class="group-31">
+                  <div class="overlap-group-3">
+                    <div class="base">
+                      <div class="price"><div class="x50">R$4,99</div></div>
+                      <div class="title-and-desc">
+                        <div class="base-1">Individual</div>
+                        <p class="for-most-businessesinter-normal-waterloo--15px">
+                          Para acompanhar a liturgia diária ao longo do ano.
+                        </p>
+                      </div>
+                      <div class="list-item">
+                        <img
+                          class="check-circle-1-3"
+                          src="check-circle-1-8.svg"
+                        />
+                        <div class="all-limited-linksinter-normal-waterloo--15px">Liturgia diária</div>
+                      </div>
+                      <div class="flex-row-3">
+                        <img
+                          class="check-circle-1"
+                          src="check-circle-1-5.svg"
+                        />
+                        <p class="own-analytics-platfointer-normal-waterloo--15px">Homilia e Santo do Dia</p>
+                      </div>
+                      <div class="flex-row-4">
+                        <img
+                          class="check-circle-1"
+                          src="check-circle-1-6.svg"
+                        />
+                        <div class="chat-supportinter-normal-waterloo--15px">Até 4 lembretes mensais</div>
+                      </div>
+                      <div class="flex-row-5">
+                        <img
+                          class="check-circle-1"
+                          src="check-circle-1-7.svg"
+                        />
+                        <div class="optimize-hashtagsinter-normal-waterloo--15px">Salvar para ler depois</div>
+                      </div>
+                    </div>
+                    <div class="month">/mês</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="group-35">
+              <div class="overlap-group-4">
+                <div class="group-34">
+                  <div class="overlap-group1-1">
+                    <div class="price-1"><div class="x100">R$11,99</div></div>
+                    <div class="month-1">/mês</div>
+                    <p class="month-2inter-normal-white-10px">
+                      até 3 usuários. A partir de 4 usuários,<br />valor adicional de R$1,49/mês.
+                    </p>
+                  </div>
+                  <div class="group-33">
+                    <div class="title-and-desc-1">
+                      <div class="pro">Família</div>
+                      <p class="for-most-businesses-1inter-normal-white-15px">
+                        Para orar e refletir a liturgia diária em família.
+                      </p>
+                    </div>
+                    <div class="group-32">
+                      <div class="list-item-1">
+                        <img
+                          class="check-circle-1-1"
+                          src="check-circle-1.svg"
+                        />
+                        <div class="all-limited-links-1inter-normal-white-15px">Tudo do Individual +</div>
+                      </div>
+                      <div class="flex-row">
+                        <img
+                          class="check-circle-1-2"
+                          src="check-circle-1.svg"
+                        />
+                        <p class="own-analytics-platfo-1inter-normal-white-15px">
+                          Leituras e homilia em formato podcast
+                        </p>
+                      </div>
+                      <div class="flex-row-6">
+                        <img
+                          class="check-circle-1-1"
+                          src="check-circle-1.svg"
+                        />
+                        <div class="chat-support-1inter-normal-white-15px">Acesso à comunidade</div>
+                      </div>
+                      <div class="flex-row-7">
+                        <img
+                          class="check-circle-1-1"
+                          src="check-circle-1.svg"
+                        />
+                        <div class="optimize-hashtags-1inter-normal-white-15px">Até 8 lembretes mensais</div>
+                      </div>
+                      <div class="flex-row">
+                        <img
+                          class="check-circle-1-2"
+                          src="check-circle-1.svg"
+                        />
+                        <p class="unlimited-usersinter-normal-white-15px">Criar e participar de grupos de oração</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="overlap-group5border-1px-gray"><div class="text-1">Quero assinar com desconto!</div></div>
+      </div>
+      <div class="cta">
+        <div class="overlap-group-5">
+          <div class="cta-1">
+            <div class="illustration">
+              <div class="overlap-group1-2">
+                <img
+                  class="envelope-copy-3"
+                  src="envelope-copy-3.svg"
+                />
+                <div class="envelope-copy-1">
+                  <div class="overlap-group2-1">
+                    <div class="rectangle-163"></div>
+                    <div class="frame-53">
+                      <img
+                        class="ellipse-11-stroke"
+                        src="ellipse-11-stroke.svg"
+                      /><img
+                        class="group-54"
+                        src="group-54.svg"
+                      />
+                    </div>
+                    <img
+                      class="vector"
+                      src="vector-1.svg"
+                    /><img
+                      class="vector-1"
+                      src="vector-2.svg"
+                    /><img
+                      class="vector-2"
+                      src="vector-3.svg"
+                    />
+                  </div>
+                </div>
+                <img
+                  class="envelope-copy-2"
+                  src="envelope-copy-2.svg"
+                />
+                <div class="add-user">
+                  <div class="overlap-group3-1">
+                    <img
+                      class="user"
+                      src="user.svg"
+                    />
+                    <div class="plus">
+                      <img
+                        class="essential-icons-plus"
+                        src="essential-icons-plus.svg"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="content">
+              <div class="section-title">Informe seu e-mail para receber nossos descontos e mais promoções!</div>
+            </div>
+          </div>
+          <div class="group-55">
+            <div class="overlap-group4">
+              <div class="rectangle-1-1"></div>
+              <div class="rectangle-4-1"></div>
+              <div class="brucewaynecombr-1">bruce@wayne.com.br</div>
+              <div class="receber-descontobebasneue-normal-white-24px">RECEBER DESCONTO!</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+  </html>
